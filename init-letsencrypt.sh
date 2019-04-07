@@ -1,6 +1,6 @@
 #!/bin/bash
 
-domains=(dg76.ga www.dg76.ga)
+domains=(dg65.cf www.dg65.cf admr.dg65.cf nc.dg65.cf)
 
 rsa_key_size=4096
 data_path="./data/certbot"
